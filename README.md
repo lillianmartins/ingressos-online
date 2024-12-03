@@ -10,7 +10,7 @@ O objetivo do projeto é simular a compra de ingressos de um site fictício cham
 
 ## Acesse o projeto 
 [GitHub](https://github.com/lillianmartins/ingressos-online)  
-[Link]() 
+[Link](https://ingressos-online-fawn.vercel.app/) 
 
 ## Mais informações sobre o curso
 Acesse [Alura](https://www.alura.com.br/curso-online-logica-programacao-praticando-desafios)
